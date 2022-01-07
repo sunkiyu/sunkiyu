@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VMWare-607078?style=flat-square&logo=VMWare&logoColor=white"/></a>
 
-[![Solved.ac
+[![Solved.ac/
 azarzzz](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
