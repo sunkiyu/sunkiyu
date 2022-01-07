@@ -6,5 +6,4 @@
 <img src="https://img.shields.io/badge/C++-f7e600?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-66ad35?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 
-
-<img src="https://img.shields.io/badge/CSharp-66ad35?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MS-SQL-66ad35?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
