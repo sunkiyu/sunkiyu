@@ -7,13 +7,13 @@
 <img src="https://img.shields.io/badge/CSharp-000000?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/QT-66ad35?style=flat-square&logo=QT&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Network-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MultiThread-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TCP/IP-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Socket-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Server/Client-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MFC/C#/WPF-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cross Platform-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Network-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MultiThread-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TCP/IP-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Socket-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Server/Client-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MFC/CSharp/WPF-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Cross Platform-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white"/></a>
