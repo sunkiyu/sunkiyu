@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/CSharp-000000?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/QT-66ad35?style=flat-square&logo=QT&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/TCP/IP-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Socket-66ad35?style=flat-square&logo=tcp&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
