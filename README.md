@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Cross Platform-fa9725?style=flat-square&logo=tcp&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Security-30a6ff?style=flat-square&logo=tcp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PKI-30a6ff?style=flat-square&logo=tcp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Encryption-30a6ff?style=flat-square&logo=tcp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Authentication-30a6ff?style=flat-square&logo=tcp&logoColor=white"/></a>
 
